@@ -1,0 +1,11 @@
+c:\users\engin\documents\visual studio 2013\Projects\personelTakip\personelTakip\bin\Debug\personelTakip.exe.config
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\bin\Debug\personelTakip.exe
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\bin\Debug\personelTakip.pdb
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.csprojResolveAssemblyReference.cache
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.Form1.resources
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.Form2.resources
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.Form3.resources
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.Properties.Resources.resources
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.csproj.GenerateResource.Cache
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.exe
+C:\Users\engin\Documents\Visual Studio 2013\Projects\personelTakip\personelTakip\obj\Debug\personelTakip.pdb
